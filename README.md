@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi! My name is Andrew</h1>
-<--
+<h1 align="center">Hi! My name is Artem</h1>
+<!--
 <h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1602241199/10777/keanu-thanks.gif?1602241199" width="64" />
   <br />
