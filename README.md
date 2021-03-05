@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi! My name is Andrew</h1>
+<--
 <h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1602241199/10777/keanu-thanks.gif?1602241199" width="64" />
   <br />
@@ -36,7 +37,8 @@ Here are some ideas to get you started:
       <img alt="Gmail" src="https://img.shields.io/badge/-andrew.rusanoff-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.rusanoff@gmail.com" />
     </a>
   </p>
-</h2>
+</h2> 
+-->
 <p>
   I'm Junior Frontend developer from
   <img src="https://www.flaticon.com/svg/static/icons/svg/323/323300.svg" width="13"/> <b>Saint Petersburg, Russia</b>
