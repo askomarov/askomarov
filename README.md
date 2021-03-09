@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 
 <h3>I can work with:</h3>
 <p>
-  
-  <img alt="gulp.js" src="https://img.shields.io/badge/-gulp.js-E34F26?style=flat-square&logo=gulp.js&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="http://img.shields.io/badge/-CSS3-0479BE?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
