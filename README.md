@@ -31,8 +31,8 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/aa.rusanoff/" target="_blank" rel="noreferrer noopener">
       <img alt="Instagram" src="https://img.shields.io/badge/-@aa.rusanoff-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/aa.rusanoff/" />
     </a>
-    <a href="mailto:andrew.rusanoff@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/-andrew.rusanoff-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.rusanoff@gmail.com" />
+    <a href="mailto:askomarov13@mail.ru">
+      <img alt="mail" src="https://img.shields.io/badge/-andrew.rusanoff-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.rusanoff@gmail.com" />
     </a>
   </p>
 </h2> 
@@ -58,4 +58,6 @@ Here are some ideas to get you started:
   </p>
 
 # 📫 How to reach me:
-- 
+- <a href="mailto:askomarov13@mail.ru">
+      <img alt="mail" src="https://img.shields.io/badge/-andrew.rusanoff-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.rusanoff@gmail.com" />
+    </a>
