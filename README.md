@@ -57,5 +57,5 @@ Here are some ideas to get you started:
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   </p>
 
-# 📫 How to reach me:    
- - <a href="https://t.me/askomarov"><img alt="telegram" src="https://img.shields.io/badge/askomarov-blue?style=plastic&logo=telegram"/></a>
+# 📫 How to reach me:
+<a href="https://t.me/askomarov"><img alt="telegram" src="https://img.shields.io/badge/askomarov-blue?style=plastic&logo=telegram"/></a>
