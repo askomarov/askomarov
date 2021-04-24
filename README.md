@@ -61,3 +61,6 @@ Here are some ideas to get you started:
 - <a href="mailto:askomarov13@mail.ru">
       <img alt="mail" src="https://img.shields.io/badge/-askomarov-c14438?style=flat&logo=mail&logoColor=white&link=mailto:askomarov13@mail.ru" />
     </a>
+    
+    <a href="https://t.me/askomarov"><img alt="telegram" src="https://img.shields.io/badge/askomarov-blue?style=plastic&logo=telegram"/></a>
+![link](https://img.shields.io/badge/askomarov-blue?style=plastic&logo=telegram)
