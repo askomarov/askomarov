@@ -58,4 +58,4 @@ Here are some ideas to get you started:
   </p>
 
 # 📫 How to reach me:
-<a href="https://t.me/askomarov"><img alt="telegram" src="https://img.shields.io/badge/askomarov-blue?style=plastic&logo=telegram"/></a>
+<a href="https://t.me/askomarov"><img alt="telegram" src="https://img.shields.io/badge/-askomarov-blue?style=flat&logo=telegram"/></a>
