@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 
 # 📫 How to reach me:
 - <a href="mailto:askomarov13@mail.ru">
-      <img alt="mail" src="https://img.shields.io/badge/-andrew.rusanoff-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.rusanoff@gmail.com" />
+      <img alt="mail" src="https://img.shields.io/badge/-askomarov-c14438?style=flat&logo=mail&logoColor=white&link=mailto:askomarov13@mail.ru" />
     </a>
