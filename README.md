@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img alt="CSS3" src="http://img.shields.io/badge/-CSS3-0479BE?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F6DF1C?style=flat-square&logo=javascript&logoColor=grey"/>
-    <img alt="JavaScript" src="http://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=grey"/>
+  <img alt="JavaScript" src="http://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=black"/>
   <img alt="GitHub" src="http://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
   <img alt="Figma" src="http://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
