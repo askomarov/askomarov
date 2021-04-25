@@ -14,29 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi! My name is Artem</h1>
-<!--
-<h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1602241199/10777/keanu-thanks.gif?1602241199" width="64" />
-  <br />
-  Welcome to my page!
-  <br />
-  <br />
-  <p align="center">
-    <a href="https://www.linkedin.com/in/arusanoff/" target="_blank" rel="noreferrer noopener">
-      <img alt="Linkedin" src="https://img.shields.io/badge/-arusanoff-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arusanoff/" />
-    </a>
-    <a href="https://twitter.com/andrew_rusanoff" target="_blank" rel="noreferrer noopener">
-      <img alt="Twitter" src="https://img.shields.io/badge/-@andrew_rusanoff-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andrew_rusanoff" />
-    </a>
-    <a href="https://www.instagram.com/aa.rusanoff/" target="_blank" rel="noreferrer noopener">
-      <img alt="Instagram" src="https://img.shields.io/badge/-@aa.rusanoff-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/aa.rusanoff/" />
-    </a>
-    <a href="mailto:askomarov13@mail.ru">
-      <img alt="mail" src="https://img.shields.io/badge/-andrew.rusanoff-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.rusanoff@gmail.com" />
-    </a>
-  </p>
-</h2> 
--->
 <p align="center">
   I'm Junior Frontend developer from
   <img src="https://www.flaticon.com/svg/static/icons/svg/323/323300.svg" width="13"/> <b>Saint Petersburg, Russia</b>
