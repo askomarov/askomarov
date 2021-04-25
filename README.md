@@ -37,12 +37,14 @@ Here are some ideas to get you started:
   </p>
 </h2> 
 -->
-<p>
+<p align="center">
   I'm Junior Frontend developer from
   <img src="https://www.flaticon.com/svg/static/icons/svg/323/323300.svg" width="13"/> <b>Saint Petersburg, Russia</b>
   <br />
 </p>
-
+<p align="center">
+ <img src="img/artem.png" width="160" heigh="160"/>
+</p>
 <h3>I can work with:</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
