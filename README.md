@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img alt="Figma" src="http://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
-### I'm still learning:
+### 👨‍💻 I'm still learning:
   <p>
     <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F6DF1C?style=flat-square&logo=javascript&logoColor=grey" />
     <img alt="Vue" src="http://img.shields.io/badge/-Vue-3EBA84?style=flat-square&logo=Vue.js&logoColor=white" />
