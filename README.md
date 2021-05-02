@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 <a href="https://t.me/askomarov"><img alt="telegram" src="https://img.shields.io/badge/-askomarov-blue?style=flat&logo=telegram"/></a>
 <a href="mailto:askomarov13@mail.ru"><img alt="mail.ru" src="https://img.shields.io/badge/-mail.ru-002f71?style=flat&logo=Mail.ru&logoColor=ff9e00"/></a>
 
-### 🟢 My portfolio
-[<img alt="" src="https://img.shields.io/badge/-portfolio-blue?style=flat"/>](https://askomarov.github.io/myPort/)
+### 🟢 My portfolio site
+[<img alt="" src="https://img.shields.io/badge/-clickMe-blue?style=flat"/>](https://askomarov.github.io/myPort/)
