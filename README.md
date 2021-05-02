@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  <img src="img/artem.png" width="160" heigh="160"/>
 </p>
 
-### I can work with:
+### 👨‍🎓 I can work with:
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="http://img.shields.io/badge/-CSS3-0479BE?style=flat-square&logo=css3&logoColor=white" />
