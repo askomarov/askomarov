@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="img/artem.png" width="160" heigh="160"/>
 </p>
+
 ### I can work with:
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
   <img alt="GitHub" src="http://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
   <img alt="Figma" src="http://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
+
 ### I'm still learning:
   <p>
     <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F6DF1C?style=flat-square&logo=javascript&logoColor=grey" />
