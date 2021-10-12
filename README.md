@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi! My name is Artem</h1>
 <p align="center">
   I'm Junior Frontend developer from
-  <img src="https://www.flaticon.com/svg/static/icons/svg/323/323300.svg" width="13"/> <b>Saint Petersburg, Russia</b>
+<img src="https://sibwiki.lingvopolitics.org/images/c/c5/Flag.Russia.png" width="30"/> <b>Saint Petersburg, Russia</b>
   <br />
 </p>
 <p align="center">
