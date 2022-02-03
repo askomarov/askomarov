@@ -48,3 +48,5 @@ Here are some ideas to get you started:
 
 ### 🟢 My portfolio site
 [<img alt="" src="https://img.shields.io/badge/-clickMe-blue?style=flat"/>](https://askomarov.github.io/myPort/)
+
+<img src="img/paint.gif" style="width: 100%; height: 500px;" width="100px" heigh="50px"/>
