@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi! My name is Artem</h1>
 <p align="center">
-  I'm Frontend developer from
+  I'm Frontend developer
 <!-- <img src="https://sibwiki.lingvopolitics.org/images/c/c5/Flag.Russia.png" width="30"/> <b>Saint Petersburg, Russia</b> -->
 </p>
 <p align="center">
