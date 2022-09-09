@@ -13,14 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi! My name is Artem</h1>
-<p align="center">
-  I'm Frontend developer
-<!-- <img src="https://sibwiki.lingvopolitics.org/images/c/c5/Flag.Russia.png" width="30"/> <b>Saint Petersburg, Russia</b> -->
-</p>
-<p align="center">
- <img src="img/artem.png" width="160" heigh="160"/>
-</p>
+<h1 align="center">Hi! My name is Artem Komarov</h1>
 
 ### 👨‍🎓 I can work with:
 <p>
