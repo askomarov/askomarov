@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 <a href="https://www.upwork.com/freelancers/~018bdbfb35f7a23234?viewMode=1"><img src="https://img.shields.io/badge/-Upwork-000000?&style=flat-square&logo=upwork&logoColor=black&color=6FDA44" alt="Upwork"></a>
 
 ### 🟢 My portfolio site
-[<img alt="" src="https://img.shields.io/badge/-clickMe-blue?style=flat"/>](https://askomarov.github.io/myPort/)
+[<img alt="" src="https://img.shields.io/badge/-portfolio site-blue?style=flat"/>](https://nuxtstoryblok-test.netlify.app/)
