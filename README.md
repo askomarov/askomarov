@@ -24,18 +24,21 @@ Here are some ideas to get you started:
   <img alt="JavaScript" src="http://img.shields.io/badge/-Gulp.js-CF4647?style=flat-square&logo=gulp&logoColor=white"/>
   <img alt="GitHub" src="http://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
   <img alt="Figma" src="http://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Vue" src="http://img.shields.io/badge/-Vue-3EBA84?style=flat-square&logo=Vue.js&logoColor=white" />
+  <img alt="Nuxt" src="http://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />
 </p>
 
 ### 👨‍💻 I'm still learning:
   <p>
     <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F6DF1C?style=flat-square&logo=javascript&logoColor=grey" />
     <img alt="Vue" src="http://img.shields.io/badge/-Vue-3EBA84?style=flat-square&logo=Vue.js&logoColor=white" />
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+    <img alt="Nuxt" src="http://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />
   </p>
 
 ### 📫 How to reach me:
 <a href="https://t.me/askomarov"><img alt="telegram" src="https://img.shields.io/badge/-askomarov-blue?style=flat&logo=telegram"/></a>
-<a href="mailto:vk561812@gmail.com"><img alt="mail.ru" src="https://img.shields.io/badge/-mail.ru-002f71?style=flat&logo=Mail.ru&logoColor=ff9e00"/></a>
+<a href="mailto:vk561812@gmail.com"><img alt="mail.ru" src="https://img.shields.io/badge/-gmail-f6f8fc?style=flat&logo=Gmail"/></a>
 <a href="https://www.upwork.com/freelancers/~018bdbfb35f7a23234?viewMode=1"><img src="https://img.shields.io/badge/-Upwork-000000?&style=flat-square&logo=upwork&logoColor=black&color=6FDA44" alt="Upwork"></a>
 
 ### 🟢 My portfolio site
