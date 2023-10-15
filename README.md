@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Vue" src="http://img.shields.io/badge/-Vue-3EBA84?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Nuxt" src="http://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />
+  <img alt="Nuxt" src="http://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### 👨‍💻 I'm still learning:
