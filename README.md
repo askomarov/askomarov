@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
 <a href="https://t.me/askomarov"><img alt="telegram" src="https://img.shields.io/badge/-askomarov-blue?style=flat&logo=telegram"/></a>
-<a href="mailto:askomarov13@mail.ru"><img alt="mail.ru" src="https://img.shields.io/badge/-mail.ru-002f71?style=flat&logo=Mail.ru&logoColor=ff9e00"/></a>
+<a href="mailto:vk561812@gmail.com"><img alt="mail.ru" src="https://img.shields.io/badge/-mail.ru-002f71?style=flat&logo=Mail.ru&logoColor=ff9e00"/></a>
 <a href="https://www.upwork.com/freelancers/~018bdbfb35f7a23234?viewMode=1"><img src="https://img.shields.io/badge/-Upwork-000000?&style=flat-square&logo=upwork&logoColor=black&color=6FDA44" alt="Upwork"></a>
 
 ### 🟢 My portfolio site
